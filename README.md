@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kongphop 👋
 
-<!--
-**kongpopkea/kongpopkea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fourth-year Computer Science student interested in
+Software Quality Assurance and Software Testing.(Zero experience, 100% passion)
 
-Here are some ideas to get you started:
+## QA Skills
+- Manual Testing
+- Test Case & Test Scenario Design
+- API Testing
+- Test Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Postman / Newman
+- Robot Framework
+- Selenium
+- Git / GitHub
+- SQL
+
+## Currently Learning
+- SQL for Software Testing
+- Test Automation
+- Software QA Practices
+
+## Featured Projects
+- Web UI Automation with Robot Framework & Selenium
+- REST API Testing with Postman & Newman
+- Flower Shop Web Application
